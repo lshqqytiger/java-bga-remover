@@ -1,8 +1,8 @@
 {
   "name": "Java! Extension",
-  "version": "1.0",
+  "version": "1.1",
   "manifest_version": 2,
-  "description": "자바! 도우미 확장",
+  "description": "자바! 도우미 확장 프로그램",
   "permissions": ["tabs", "activeTab", "storage", "declarativeContent"],
   "page_action": {
     "default_popup": "popup.html"
