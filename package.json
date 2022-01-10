@@ -1,0 +1,11 @@
+{
+  "name": "java-game-extension",
+  "version": "1.0",
+  "description": "Java! Extension",
+  "repository": "https://github.com/lshqqytiger/java-game-extension.git",
+  "author": "이승훈",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.175"
+  }
+}
